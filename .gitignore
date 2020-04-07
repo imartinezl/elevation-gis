@@ -1,3 +1,5 @@
 # Specify filepatterns you want git to ignore.
-*.asc
-*.zip
+#*.asc
+#*.zip
+data/
+data_unzip/
