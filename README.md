@@ -1,4 +1,4 @@
 # lidar-qgis
 
 
-<img src="lidar_pendiente.png">
+<img src="LIDAR/lidar_pendiente.png">
