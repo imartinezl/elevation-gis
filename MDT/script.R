@@ -2,7 +2,7 @@
 
 library(dplyr)
 library(raster)
-r <- raster::raster("~/Downloads/MDT_064_5_1.asc")
+r <- raster::raster("data_unzip//MDT_064_5_1.asc")
 plot(r)
 
 df <- as.data.frame(r, xy=TRUE)

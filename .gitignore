@@ -3,3 +3,4 @@
 #*.zip
 data/
 data_unzip/
+MDT/3D_plot_*/*.png
